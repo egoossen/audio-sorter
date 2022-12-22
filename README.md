@@ -9,6 +9,7 @@ Download the script and run with Python.
 
 ## Requirements
 Python (Tested with Python 3.8.10)
+tinytag (https://pypi.org/project/tinytag/)
 
 tinytag (https://pypi.org/project/tinytag/)
 
