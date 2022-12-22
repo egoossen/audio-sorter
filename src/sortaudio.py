@@ -55,7 +55,6 @@ if __name__ == '__main__':
     print('Sorting Audio...')
     
     CWD = str(os.getcwd())
-    CWD = str(os.getcwd()+'/test')
     logging.debug(f'CWD is {CWD}')
     
     sort_dir(CWD)
